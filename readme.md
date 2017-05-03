@@ -1,6 +1,6 @@
 ## Link to this Site
 
-![Creative-inc.com](https://creative-inc.herokuapp.com/)
+[Creative-inc.com](https://creative-inc.herokuapp.com/)
 
 ## ScreenShoot
 
